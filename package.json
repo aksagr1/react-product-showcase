@@ -2,7 +2,7 @@
   "name": "react-product-showcase",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<YOUR-USERNAME>.github.io/<YOUR-REPOSITORY-NAME>",
+  "homepage": "https://aksagr1.github.io/react-product-showcase",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
