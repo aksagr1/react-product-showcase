@@ -1,0 +1,4 @@
+/* Using Tailwind directives - these are processed during the build step by GitHub Actions */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
