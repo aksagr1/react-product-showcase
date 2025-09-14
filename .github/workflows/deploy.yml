@@ -25,7 +25,7 @@ jobs:
 
       - name: Build application
         # The PUBLIC_URL environment variable is crucial for routing on GitHub Pages
-        run: PUBLIC_URL=/${{ github.event.repository.name }} npm run build
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
